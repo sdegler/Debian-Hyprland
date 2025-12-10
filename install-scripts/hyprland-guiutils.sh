@@ -17,7 +17,7 @@ guiutils=(
 )
 
 #specific branch or release
-tag="v0.1.4"
+tag="v0.2.0"
 # Allow environment override
 if [ -n "${HYPRLAND_GUIUTILS_TAG:-}" ]; then tag="$HYPRLAND_GUIUTILS_TAG"; fi
 
