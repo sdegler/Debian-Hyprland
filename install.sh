@@ -402,7 +402,7 @@ execute_script "hyprland-qt-support.sh"
 sleep 1
 execute_script "hyprtoolkit.sh"
 sleep 1
-execute_script "hyprland-guitils.sh"
+execute_script "hyprland-guiutils.sh"
 sleep 1
 execute_script "hyprland-protocols.sh"
 sleep 1
